@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 13 19:42:37 BST 2023","Wed Sep 13 19:42:37 BST 2023","143","","User CRUD Operations","","","","DELETE API - Delete the user and assert the response body",""
+"passed","Wed Sep 13 19:42:36 BST 2023","Wed Sep 13 19:42:36 BST 2023","567","","User CRUD Operations","","","","POST API - Create a user and assert the response body",""
+"passed","Wed Sep 13 19:42:36 BST 2023","Wed Sep 13 19:42:37 BST 2023","138","","User CRUD Operations","","","","GET API - Get the user and assert the response Body",""
