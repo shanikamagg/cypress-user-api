@@ -30,6 +30,7 @@ Test Execution
 1. Go to the project
 2. npx cypress open
 3. Select the browser
+4. Select the test case
 
 Reporting - Allure Reporting
 1. Install allure plugin - npm i -D @shelex/cypress-allure-plugin
