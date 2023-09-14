@@ -13,5 +13,6 @@ dist/
 *.jar
 
 #Reports
-allure-report/
-Allure-results/
+allure-report
+Allure-results
+.DS_Store
